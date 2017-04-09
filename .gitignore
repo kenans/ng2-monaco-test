@@ -7,6 +7,7 @@
 
 # dependencies
 /node_modules
+/src/assets/monaco
 
 # IDEs and editors
 /.idea
